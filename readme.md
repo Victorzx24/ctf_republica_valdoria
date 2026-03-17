@@ -54,5 +54,4 @@ A abordagem adotada seguiu as seguintes etapas:
 ## 📁 Estrutura do Repositório
 
 - `README.md` — Visão geral e metodologia
-- `docs/` — Relatórios e documentos do desafio
-- `assets/` — Imagens e materiais auxiliares
+- `write_up/` — Relatórios e documentos do desafio
